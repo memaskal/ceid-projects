@@ -1,0 +1,29 @@
+extern void print(string text);
+extern integer readInt();
+void main()
+integer i, N, j, pow;
+integer fact(integer x)
+begin
+	if ( x <= 1  ) 
+		return 1;
+	return x * fact(x - 1);
+end
+begin
+	N = 1;
+while (N < 5) { {
+		i = readInt();
+		while(i < 0) {
+			print("Error input must be possitive number");
+			i = readInt();
+		}
+		print("The factorial of " + i + " is: " + fact(i));
+		
+		pow = i;
+		for(j; 2; 10; 1) {
+			pow = pow * i;
+		}
+		print("The 3rd power of " + i + " is: " + pow);
+	}
+	N = N + 1;
+}
+end

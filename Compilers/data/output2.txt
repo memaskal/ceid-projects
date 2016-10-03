@@ -1,0 +1,19 @@
+extern void print(string text);
+void main()
+integer result;
+integer calc(integer i)
+begin
+	if ( i < 10 
+		return i * 2;
+	else
+		if ( i < 20 )
+			return i * 2 / 3 + 4 * i;
+		else 
+			return i *;
+end
+begin
+	result = calc(15) + 1*(calc(2) * calc(3);
+	result = calc(result + 3);
+	print("The result is " + result);
+	return;
+end

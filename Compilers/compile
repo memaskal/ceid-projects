@@ -1,0 +1,4 @@
+bison -d -y src/pro.y --report=all
+flex src/pro.l
+gcc -c y.tab.c lex.yy.c
+gcc y.tab.o lex.yy.o -o myParser
