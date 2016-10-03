@@ -10,7 +10,7 @@ Project  | Description | Language, libraries etc
 [Parallel processing][parale] | Optimization of a local sequence aligment algorithm | C++, OpenMP, SIMD
 
 
-[data]: <https://github.com/memaskal/ceid-projects/tree/master/Data-Structures>
-[os]: <https://github.com/memaskal/ceid-projects/tree/master/Operating-Systems>
-[comp]: <https://github.com/memaskal/ceid-projects/tree/master/Compilers>
-[parale]: <https://github.com/memaskal/ceid-projects/tree/master/Parallel-Processing>
+[data]: <./Data-Structures>
+[os]: <./Operating-Systems>
+[comp]: <./Compilers>
+[parale]: <./Parallel-Processing>
