@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+html { 
+  background: url('http://www.desktopwallpaperhd.net/wallpapers/6/e/wallpaper-background-web-gianluca-search-67422.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#search {
+	border: 1px solid #2E4272;
+	padding: 5px;
+	width: 500px;
+}
+
+#go {
+	border: 1px solid #2E4272;
+	padding: 4px;
+	cursor: pointer;
+}
+
+a {
+	color:white;
+	padding: 4px;
+}
+
+#results {
+	width: 750px;
+	border-radius: 5px;
+	margin-top: 25px;
+	background: rgba(15, 35, 66, 0.5);
+	padding: 10px;
+	text-align:left;
+}
+
+body {
+	margin-top:150px;
+	color:white;
+}
+</style>
+</head>
+<body>
+<center>
+	<h1>Glwssikh Search </h1>
+	<form method="GET">
+		<input name="query" autocomplete="off" id="search" placeholder="Search..." />
+		<button type="submit" id="go" class="icon">Go</button>
+	</form>
+	<!-- Results go here -->
+	%s
+</center>
+</body>
+</html>
