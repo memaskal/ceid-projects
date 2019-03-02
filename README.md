@@ -17,5 +17,5 @@ Project  | Description | Language, libraries etc
 [data]: <./Data-Structures>
 [nlp]: <./Natural-Language-Processing>
 [os]: <./Operating-Systems>
-[hpc]: <https://github.com/memaskal/sequence-alignment>
+[hpc]: <https://github.com/memaskal/HPC>
 [parale]: <https://github.com/memaskal/sequence-alignment>
