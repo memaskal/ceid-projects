@@ -10,7 +10,9 @@ Project  | Description | Language, libraries etc
 [Natural Language Processing][nlp] | Web search engine implementation | Python, NLTK, scikit-learn
 [Operating Systems][os] | Creation of a tiny shell | C, processes, pipes
 [Parallel processing][parale] | Optimization of a local sequence aligment algorithm | C++, OpenMP, SIMD
+[Advanced Information Systems][adv] | Creation of an information system using open data | SSDT, SQL (Analysis) Server, PowerBi
 
+[adv]: <https://github.com/memaskal/prohgmena-plhroforiaka>
 [comp]: <./Compilers>
 [data]: <./Data-Structures>
 [nlp]: <./Natural-Language-Processing>
