@@ -11,6 +11,7 @@ Project  | Description | Language, libraries etc
 [Operating Systems][os] | Creation of a tiny shell | C, processes, pipes
 [Parallel processing][parale] | Optimization of a local sequence aligment algorithm | C++, OpenMP, SIMD
 [Advanced Information Systems][adv] | Creation of an information system using open data | SSDT, SQL (Analysis) Server, PowerBi
+[Digital Communications][digcom] | DPCM encoding - M-PSK Modulation implementations | Matlab
 
 [adv]: <https://github.com/memaskal/prohgmena-plhroforiaka>
 [comp]: <./Compilers>
@@ -19,3 +20,5 @@ Project  | Description | Language, libraries etc
 [os]: <./Operating-Systems>
 [hpc]: <https://github.com/memaskal/HPC>
 [parale]: <https://github.com/memaskal/sequence-alignment>
+[digcom]: <./Digital-Communications>
+
